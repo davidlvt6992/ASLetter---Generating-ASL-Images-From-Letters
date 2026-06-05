@@ -112,7 +112,7 @@ The training process demonstrates several common GAN behaviors, including early 
 | `data.py` | Dataset loading and preprocessing |
 | `import_dataset.py` | Dataset download/import utilities |
 
----                                                                                                                             |
+---
 
 ## Running Example
 
